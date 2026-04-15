@@ -1,3 +1,11 @@
+---
+name: Basic Issue 
+about: Tell us more about the problem you've found.
+title: "[Basic issue]"
+labels: issue
+assignees: ''
+---
+
 ## What problem have you identified?
 
 <!-- You opened the issue for some reason, right? -->
